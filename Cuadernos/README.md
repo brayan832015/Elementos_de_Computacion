@@ -390,12 +390,13 @@ text
 - Utiliza variables descriptivas para almacenar los mensajes de salida
 
 **Ejemplo de uso**:
+```
 Bienvenido a su programa para calcular el área y el perímetro de un rectángulo
 Ingrese la medida de la altura en metros: 5
 Ingrese la medida de la base en metros: 8
 El área correponde a: 40 m2
 El perímetro corresponde a: 26 m
-
+```
 ---
 
 ### 18. **area_y_perimetro_circulo.py**
@@ -411,11 +412,12 @@ El perímetro corresponde a: 26 m
 - Imprime ambos resultados
 
 **Ejemplo de uso**:
+```
 Bienvenido a su programa para calcular el área y perímetro de un círculo
 Ingrese la medida del radio del círculo: 5
 El área del círculo es: 78.53981633974483
 El perímetro del círculo es: 31.41592653589793
-
+```
 ---
 
 ### 19. **verificar_cuadrado_magico.py**
@@ -434,10 +436,11 @@ El perímetro del círculo es: 31.41592653589793
 - Retorna `True` si todas las sumas coinciden (es un cuadrado mágico), `False` en caso contrario
 
 **Ejemplo de uso**:
+```
 es_magico( [[11,4,17,10,23],[20,8,21,14,2],[24,12,5,18,6],[3,16,9,22,15],[7,25,13,1,19]] ) -> True
 ​
 es_magico( [[11,4,15,10,23],[20,8,21,14,2],[24,4,5,18,6],[3,16,9,22,15],[7,25,13,1,19]] )  -> False
-
+```
 ---
 
 ### 20. **triangulo_de_Pascal.py**
@@ -454,7 +457,7 @@ es_magico( [[11,4,15,10,23],[20,8,21,14,2],[24,4,5,18,6],[3,16,9,22,15],[7,25,13
 - Añade un 1 al final de cada fila (característica del triángulo de Pascal)
 - Utiliza el método `extend()` para añadir valores sumados y `append()` para agregar filas completas a la matriz
 - Retorna la fila n solicitada en formato de lista
-
+```
 **Ejemplo de uso**:
 Pascal(0) -> [1]
 ​
@@ -465,4 +468,4 @@ Pascal(3) -> [1, 3, 3, 1]
 Pascal(5) -> [1, 5, 10, 10, 5, 1]
 ​
 Pascal(6) -> [1, 6, 15, 20, 15, 6, 1]
----
+```
