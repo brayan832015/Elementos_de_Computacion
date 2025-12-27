@@ -194,58 +194,23 @@ Muestra cuando se agotan todas las vidas:
 
 ---
 
-## Bucle Principal del Juego
-
-INICIO
-↓
-Mostrar Menú Principal
-↓
-Usuario elige Modo (1 o 2)
-↓
-Usuario elige Dificultad (F, I, D)
-↓
-Inicializar Juego
-├─ Crear aliens
-├─ Crear obstáculos
-├─ Crear nave(s)
-├─ Inicializar sonidos
-└─ Configurar parámetros de dificultad
-↓
-BUCLE DE JUEGO (mientras ejecutando = True):
-├─ Mostrar fondo y puntuación
-├─ Procesar entrada del usuario
-├─ Actualizar posiciones (naves, balas, aliens)
-├─ Detectar colisiones
-├─ Aliens disparan aleatoriamente (máximo 5 balas)
-├─ Reproducir sonidos según eventos
-├─ Verificar condiciones de victoria/derrota
-└─ Actualizar pantalla (60 FPS)
-↓
-FIN DE PARTIDA
-├─ Mostrar pantalla de victoria o derrota
-├─ Reproducir sonido final
-├─ Guardar puntuación en archivo
-└─ Esperar entrada para volver al menú
-
----
-
 
 ## Pantallas del Juego
 
-![Menú Principal](Imagenes_funcionamiento/menu_principal.jpg)
+![Menú Principal](Imagenes_funcionamiento/menu_principal.png)
 *Pantalla principal con opciones de juego*
 
-![Selección de Dificultad](Imagenes_funcionamiento/menu_dificultad.jpg)
+![Selección de Dificultad](Imagenes_funcionamiento/menu_dificultad.png)
 *Menú para elegir nivel de dificultad*
 
-![Juego Individual](Imagenes_funcionamiento/juego_individual.jpg)
+![Juego Individual](Imagenes_funcionamiento/juego_individual.png)
 *Juego en modo de un jugador durante la partida*
 
-![Juego Multijugador](Imagenes_funcionamiento/juego_dos_jugadores.jpg)
+![Juego Multijugador](Imagenes_funcionamiento/juego_dos_jugadores.png)
 *Modo cooperativo con dos jugadores simultáneamente*
 
-![Pantalla de Victoria](Imagenes_funcionamiento/pantalla_ganada.jpg)
+![Pantalla de Victoria](Imagenes_funcionamiento/pantalla_ganada.png)
 *Pantalla mostrada al ganar la partida*
 
-![Pantalla de Derrota](Imagenes_funcionamiento/pantalla_perdida.jpg)
+![Pantalla de Derrota](Imagenes_funcionamiento/pantalla_perdida.png)
 *Pantalla mostrada al perder todas las vidas*
