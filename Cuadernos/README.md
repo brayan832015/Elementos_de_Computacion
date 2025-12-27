@@ -457,8 +457,9 @@ es_magico( [[11,4,15,10,23],[20,8,21,14,2],[24,4,5,18,6],[3,16,9,22,15],[7,25,13
 - Añade un 1 al final de cada fila (característica del triángulo de Pascal)
 - Utiliza el método `extend()` para añadir valores sumados y `append()` para agregar filas completas a la matriz
 - Retorna la fila n solicitada en formato de lista
-```
+
 **Ejemplo de uso**:
+```
 Pascal(0) -> [1]
 ​
 Pascal(1) -> [1, 1]
