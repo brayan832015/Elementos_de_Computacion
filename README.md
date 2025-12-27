@@ -1,3 +1,3 @@
 # Elementos_de_Computación
 
-Repositorio con ejercicios prácticos y proyectos del curso **Elementos de Computación** del Instituto Tecnológico de Costa Rica (TEC).
+Repositorio con ejercicios prácticos y proyectos del curso **Elementos de Computación** del Instituto Tecnológico de Costa Rica (TEC), cursado en el primer semestre del 2021.
