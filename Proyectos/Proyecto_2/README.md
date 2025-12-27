@@ -232,20 +232,20 @@ FIN DE PARTIDA
 
 ## Pantallas del Juego
 
-![Menú Principal](Imágenes_funcionamiento/menu_principal.jpg)
+![Menú Principal](Imagenes_funcionamiento/menu_principal.jpg)
 *Pantalla principal con opciones de juego*
 
-![Selección de Dificultad](Imágenes_funcionamiento/menu_dificultad.jpg)
+![Selección de Dificultad](Imagenes_funcionamiento/menu_dificultad.jpg)
 *Menú para elegir nivel de dificultad*
 
-![Juego Individual](Imágenes_funcionamiento/juego_individual.jpg)
+![Juego Individual](Imagenes_funcionamiento/juego_individual.jpg)
 *Juego en modo de un jugador durante la partida*
 
-![Juego Multijugador](Imágenes_funcionamiento/juego_dos_jugadores.jpg)
+![Juego Multijugador](Imagenes_funcionamiento/juego_dos_jugadores.jpg)
 *Modo cooperativo con dos jugadores simultáneamente*
 
-![Pantalla de Victoria](Imágenes_funcionamiento/pantalla_ganada.jpg)
+![Pantalla de Victoria](Imagenes_funcionamiento/pantalla_ganada.jpg)
 *Pantalla mostrada al ganar la partida*
 
-![Pantalla de Derrota](Imágenes_funcionamiento/pantalla_perdida.jpg)
+![Pantalla de Derrota](Imagenes_funcionamiento/pantalla_perdida.jpg)
 *Pantalla mostrada al perder todas las vidas*
